@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'GataBot 🐈'
-global.author = 'Gata Dios'
+global.author = 'FasFas'
 
 
 //global.wait = '*Esperé un momento..*'
